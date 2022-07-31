@@ -1,52 +1,46 @@
 {
-  "toys": [
-    {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
+  "events": [
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Explore Nairobi in a big way, checks amazing posibilities that we got",
+      "info": "Known as the safari capital of Africa, Nairobi is an energetic, modern city that serves as a fascinating introduction to both wildlife and nightlife. Music clubs pulse with life, shops and markets bustle, and a mélange of restaurants will tempt your palate in this former Maasai watering hole. Top sights include the Karen Blixen Museum, Giraffe Centre and the black rhinos of Nairobi National Park",
+      "image": "https://content.r9cdn.net/rimg/dimg/c6/b2/7e865843-city-26243-164a4a25d83.jpg?width=1366&height=768&xhint=3968&yhint=1450&crop=true",
+      "price": "10000"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Mombasa Raha, Coast events ",
+      "info": "Mombasa, with a population of 900,000, is no sleepy seaside village. Its beachfront hotels appeal to travelers in search of sun, sand and surf, while its Arab, Indian and colonial European heritage makes for a wide variety of sights to see. Can't find a taxi? Travel by tuk-tuk, a three-wheeled auto rickshaw.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/d4/cb/mbabamb-3-largejpg.jpg?w=700&h=-1&s=1",
+      "price": "15000"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Nakuru Vegas 10 Days Events",
+      "info": "Starting in the colorful Flamingo city of Nakuru, you'll escape the crowds and embrace the understated elegance of ready-for-prime-time Poland for 10 days. With an expert Rick Steves guide at your side, you'll experience mighty Malbork castle, the cobbly-cute village of Toruń, Poland's contemporary capital of Warsaw, the spiritual Jasna Góra Monastery, and charming Kraków — Poland's finest city. In this land of surprises — so trendy and hip, yet steeped in history — there's so much to discover. Join us for the Best of Poland in 10 Days!",
+      "image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRIf6nQxSkMAAkVe6LDTl8pNJ1pQY-PXkgwMHL6wWhdTEK9T3x2YH8I198A-X4li-pk",
+      "price": "20000"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Explore Nairobi in a big way, checks amazing posibilities that we got",
+      "info": "Known as the safari capital of Africa, Nairobi is an energetic, modern city that serves as a fascinating introduction to both wildlife and nightlife. Music clubs pulse with life, shops and markets bustle, and a mélange of restaurants will tempt your palate in this former Maasai watering hole. Top sights include the Karen Blixen Museum, Giraffe Centre and the black rhinos of Nairobi National Park",
+      "image": "https://content.r9cdn.net/rimg/dimg/c6/b2/7e865843-city-26243-164a4a25d83.jpg?width=1366&height=768&xhint=3968&yhint=1450&crop=true",
+      "price": "10000"
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Mombasa Raha, Coast events ",
+      "info": "Mombasa, with a population of 900,000, is no sleepy seaside village. Its beachfront hotels appeal to travelers in search of sun, sand and surf, while its Arab, Indian and colonial European heritage makes for a wide variety of sights to see. Can't find a taxi? Travel by tuk-tuk, a three-wheeled auto rickshaw.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/d4/cb/mbabamb-3-largejpg.jpg?w=700&h=-1&s=1",
+      "price": "15000"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Nakuru Vegas 10 Days Events",
+      "info": "Starting in the colorful Flamingo city of Nakuru, you'll escape the crowds and embrace the understated elegance of ready-for-prime-time Poland for 10 days. With an expert Rick Steves guide at your side, you'll experience mighty Malbork castle, the cobbly-cute village of Toruń, Poland's contemporary capital of Warsaw, the spiritual Jasna Góra Monastery, and charming Kraków — Poland's finest city. In this land of surprises — so trendy and hip, yet steeped in history — there's so much to discover. Join us for the Best of Poland in 10 Days!",
+      "image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRIf6nQxSkMAAkVe6LDTl8pNJ1pQY-PXkgwMHL6wWhdTEK9T3x2YH8I198A-X4li-pk",
+      "price": "20000"
     }
   ]
 }
